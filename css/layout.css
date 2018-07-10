@@ -1,0 +1,23 @@
+.cover {
+  background: #222 url(../images/mac.jpg) no-repeat;
+  background-size: cover;
+  color: white;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center; }
+
+.values {
+  /*background: #222 url(../images/our_values.jpg) no-repeat;
+  background-size: cover;*/
+  color: white;
+  width: 100%; }
+
+#cover-caption {
+  width: 100%; }
+
+.section-content {
+  padding: 5rem 0; }
+
+img {
+  max-width: 100%; }

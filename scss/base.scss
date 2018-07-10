@@ -1,0 +1,28 @@
+//colors
+$white: white;
+$color_log_cabin_approx: #222;
+
+//urls
+@import  url(https://fonts.googleapis.com/css?family=Raleway);
+@import  url(https://fonts.googleapis.com/css?family=Lobster);
+@import  url(https://fonts.googleapis.com/css?family=Lobster|Open+Sans+Condensed:300);
+
+html {
+	height: 100%;
+}
+body {
+	height: 100%;
+}
+.navbar {
+	width: 100%;
+}
+.logo {
+	background-color: $white;
+	width: 20%;
+}
+#footer-main {
+	background: $color_log_cabin_approx;
+	color: $white;
+	font-size: 0.8rem;
+	padding: 2.5rem 0;
+}

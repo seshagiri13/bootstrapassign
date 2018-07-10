@@ -1,0 +1,40 @@
+//colors
+$color_lochmara_approx: #0088cc;
+$color_deep_cerulean_approx: #0077b3;
+$white: white;
+
+#what-we-do {
+	background-color: $color_lochmara_approx !important;
+	border-color: $color_deep_cerulean_approx !important;
+}
+.what-we-do-back {
+	color: $white;
+}
+#submit-query {
+	background-color: $color_lochmara_approx !important;
+	border-color: $color_deep_cerulean_approx !important;
+	color: $white;
+}
+nav {
+	width: 90%;
+	display: flex;
+	align-items: center;
+}
+.list-social {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.list-font {
+	font-size: 1.0rem;
+}
+.contact {
+	width: 10%;
+}
+#carouselExampleIndicators {
+	width: 100%;
+}
+.navbar-nav > li {
+	padding-left: 52px;
+	padding-right: 97px;
+}
